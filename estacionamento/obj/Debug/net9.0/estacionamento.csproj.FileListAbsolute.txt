@@ -1,0 +1,14 @@
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/bin/Debug/net9.0/estacionamento
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/bin/Debug/net9.0/estacionamento.deps.json
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/bin/Debug/net9.0/estacionamento.runtimeconfig.json
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/bin/Debug/net9.0/estacionamento.dll
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/bin/Debug/net9.0/estacionamento.pdb
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.AssemblyInfoInputs.cache
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.AssemblyInfo.cs
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.csproj.CoreCompileInputs.cache
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.dll
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/refint/estacionamento.dll
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.pdb
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/estacionamento.genruntimeconfig.cache
+/home/caio_dev/Documentos/Estudos/C#/desafioestacionamento/estacionamento/obj/Debug/net9.0/ref/estacionamento.dll
