@@ -2,14 +2,14 @@
 using System.Runtime.InteropServices;
 using System.Text.Unicode;
 using System.Collections.Generic;
-using desafioestacionamento.classes;
+using desafioestacionamento.classes; //Faz referencia a pasta classes
 
 internal class Program
 {
     private static void Main(string[] args)
 
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        Console.OutputEncoding = System.Text.Encoding.UTF8; //Serve para suportar acentuação
         decimal precoInicial, precoporHora = 0;
 
         Console.WriteLine("Bem vindo ao estacionamento da GFT. ");
@@ -20,6 +20,7 @@ internal class Program
         Console.WriteLine("Agora digite o preço por hora. ");
         precoporHora = Convert.ToDecimal(Console.ReadLine());
 
+        // Cria uma nova instância da classe Estacionamento, passando o preço inicial e o preço por hora como parâmetros
         Estacionamento p = new Estacionamento(precoInicial, precoporHora);
         int opcao;
         bool menu = true;

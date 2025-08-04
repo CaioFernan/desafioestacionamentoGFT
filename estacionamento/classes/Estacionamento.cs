@@ -10,7 +10,7 @@ namespace desafioestacionamento.classes
         private decimal precoInicial, precoporHora = 0;
         
 
-        private List<String> p = new List<String>();
+        private List<String> p = new List<String>();//lista para armazenar os veiculos.
 
         public Estacionamento(decimal precoInicial, decimal precoporHora)
         {
@@ -31,7 +31,8 @@ namespace desafioestacionamento.classes
             Console.WriteLine("Digite a placa do veiculo para remover.");
             placa = Console.ReadLine();
 
-            if (p.Any(x => x.ToUpper() == placa.ToUpper()))
+            if (p.Any(x => x.ToUpper() == placa.ToUpper()))// Verifica se já existe uma placa igual (ignorando maiúsculas/minúsculas) na lista 'p'
+
             {
                 Console.WriteLine("Digite a quantidade de horas que o veiculo ficou estacionado");
                 decimal horasEstacionado = Convert.ToDecimal(Console.ReadLine());
